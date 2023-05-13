@@ -7,8 +7,8 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: panpan
+language: zh-CN
 timezone: ''
 
 # URL
@@ -44,17 +44,21 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
-  enable: false
+  enable: true
   preprocess: true
   line_number: true
   tab_replace: ''
+# prism_plugin:
+#   mode: 'preprocess' # realtime/preprocess
+#   theme: 'default'
+#   line_number: false # default false
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -97,7 +101,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-matery-master
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
