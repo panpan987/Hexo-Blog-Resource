@@ -1,7 +1,7 @@
 ---
 title: Python01
 date: 2023-05-14 13:59:00
-author: panpan
+author: Anduin
 coverImg: /images/1.jpg
 categories: Python
 tags:
@@ -82,7 +82,7 @@ not     or      pass    raise   return  try      while    with     yield
 
 三引号定义法，和多行注释写法一样，同时支持换行操作。
 使用变量接收它，它就是字符串，不使用变量接收它，就可以作为多行注释使用。
-```Python
+```python
 # 使用 \ 这个转义字符可以把第二、三个引号的效力取消，使他们不再有定义字符串的效果，转为普通的字符串
 name = "\"魂斗罗天下第一\""
 ```
@@ -93,7 +93,7 @@ name = "\"魂斗罗天下第一\""
 print("PHP" + "是世界上最好的语言")
 ```
 运行结果：
-```Dos
+```bash
 PHP是世界上最好的语言
 ```
 字符串和变量之间的拼接
@@ -103,7 +103,7 @@ effect = "可以做网站后端"
 print("我是" + name + "," + effect)
 ```
 运行结果：
-```dos
+```bash
 我是Java,可以做网站后端
 ```
 如果变量是数字呢
@@ -114,7 +114,7 @@ tel = 4006188080
 print("我是" + name + ",我的地址是：" + address + ",我的电话是：" + tel)
 ```
 运行结果：
-```dos
+```bash
 print("我是" + name + ",我的地址是：" + address + ",我的电话是：" + tel)
 TypeError: can only concatenate str (not "int") to str
 ```
@@ -128,7 +128,7 @@ message = "天王盖地虎, %s" % anyu
 print(message)
 ```
 运行结果：
-```dos
+```bash
 天王盖地虎, 宝塔镇河妖
 ```
 其中，%s
@@ -144,7 +144,7 @@ avg_salary = 17000
 message = "根据大数据显示，%s年%s毕业的学生平均月薪为%s" % (nf, zy, avg_salary)
 print(message)
 ```
-```dos
+```bash
 根据大数据显示，2023年计算机专业毕业的学生平均月薪为17000
 ```
 在Python中，其实支持很多的数据类型占位
@@ -162,6 +162,6 @@ price = 19.99
 message = "根据大数据显示,%d年这一款名为%s的产品售价仅仅需要%f元" % (year, name, price)
 print(message)
 ```
-```dos
+```bash
 根据大数据显示,2023年这一款名为panda电竞鼠标的产品售价仅仅需要19.990000元
 ```

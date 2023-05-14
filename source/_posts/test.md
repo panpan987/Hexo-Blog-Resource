@@ -1,8 +1,8 @@
 ---
-title: typora-vue-theme Theme introduction
+title: test-page
 date: 2018-09-07 09:25:00
-author: Qi Zhao
-img: /source/images/xxx.jpg
+author: Anduin
+img: /source/images/2.jpg
 top: true
 hide: false
 cover: true
@@ -41,6 +41,5 @@ if num >= 0:
 |**2**|美术|数学|品德|数学|语文|
 |**3**|品德|品德|语文|体育|数学|
 |**4**|语文|音乐|体育|品德|美术|
-|||||||
 |**5**|数学|英语|语文|数学|语文|
 |**6**|品德|数学|美术|劳动|活动|
