@@ -58,7 +58,7 @@ body {
     clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
 }
 ```
-![](./img/Snipaste_2023-05-20_21-35-07.png)
+![](https://cdn.jsdelivr.net/gh/panpan987/CDN@master/img/Snipaste_2023-05-20_21-35-07.png)
 ### 文字及logo
 ```html
 <body>
@@ -149,7 +149,7 @@ body {
 
 }
 ```
-![](./img/Snipaste_2023-05-20_22-08-46.png)
+![](https://cdn.jsdelivr.net/gh/panpan987/CDN@master/img/Snipaste_2023-05-20_22-08-46.png)
 
 ### 动画
 ```html
