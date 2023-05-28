@@ -2,7 +2,7 @@
 title: css01
 date: 2023-05-20 20:17:00
 author: 小白学css
-coverImg: /images/5.jpg
+img: https://cdn.jsdelivr.net/gh/panpan987/CDN@master/cover_img/101035-16600110352f43.jpg
 categories: css
 tags:
   - css

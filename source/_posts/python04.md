@@ -2,7 +2,7 @@
 title: Python04
 date: 2023-05-16 18:18:00
 author: Anduin
-coverImg: /images/3.jpg
+img: https://cdn.jsdelivr.net/gh/panpan987/CDN@master/cover_img/230111-1683730871344e.jpg
 categories: Python
 tags:
   - Python
