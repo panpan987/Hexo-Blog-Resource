@@ -29,6 +29,10 @@ tags:
       (3)第一行加粗  
       ![](https://cdn.jsdelivr.net/gh/panpan987/CDN@master/img/录制_2023_06_15_16_05_55_916.gif)
 
-
-
+      （4）图片
+      ![](https://cdn.jsdelivr.net/gh/panpan987/CDN@master/img/录制_2023_06_17_20_11_10_936.gif)     
+      （5）第一列列宽4厘米，第三列列宽5.5厘米
+      ![](https://cdn.jsdelivr.net/gh/panpan987/CDN@master/img/录制_2023_06_17_20_18_25_300.gif) 
+      （6）居中、环绕
+      ![](https://cdn.jsdelivr.net/gh/panpan987/CDN@master/img/录制_2023_06_17_20_20_21_795.gif)
   
