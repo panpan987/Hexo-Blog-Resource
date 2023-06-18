@@ -2,7 +2,7 @@
 title: Python08
 date: 2023-06-09 20:00:00
 author: 小白学Python
-img: https://cdn.jsdelivr.net/gh/panpan987/CDN@master/cover_img/113951-16658915918d26.jpg
+img: https://cdn.jsdelivr.net/gh/panpan987/CDN@master/cover_img/123916-1635741556813b.jpg
 categories: Python
 tags:
   - Python
